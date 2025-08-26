@@ -1,0 +1,7 @@
+{
+  "name": "Family Hub Dashboard",
+  "description": "A smart home dashboard to manage family schedules, tasks, and presence, with widgets for weather and public transport.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
